@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Color & Font Picker</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Color & Font Picker</h1>
+      <div class="controls">
+        <button id="collect">Collect from page</button>
+        <button id="pick-element">Pick element</button>
+      </div>
+
+      <section>
+        <h2>Colors</h2>
+        <div id="colors" class="swatches">No colors collected yet.</div>
+      </section>
+
+      <section>
+        <h2>Fonts</h2>
+        <div id="fonts">No fonts collected yet.</div>
+      </section>
+
+      <small class="note">Click a swatch to copy hex; click a font to copy its name.</small>
+    </div>
+
+    <script src="popup.js"></script>
+  </body>
+</html>
