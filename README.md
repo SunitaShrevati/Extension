@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Color+%26+Font+Picker;Grab+colors+from+any+page;Grab+fonts+from+any+page;Copy+with+one+click" alt="Typing SVG" />
 
-# 🎨 Color & Font Picker
+# 🎨 Color & Font Picker for Websites
 
 **A lightweight browser extension that extracts colors and fonts from any webpage — instantly.**
 
